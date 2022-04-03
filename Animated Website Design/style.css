@@ -14,4 +14,16 @@
     overflow: hidden;
 }
 
+.logo {
+    width: 100px;
+    cursor: pointer;
+}
 
+.navbar {
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
